@@ -1,5 +1,5 @@
 {  "name"                       : "first"
-,  "version"                    : "0.0.3"
+,  "version"                    : "0.0.4"
 ,  "description"                : "web and rest server 2018"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
