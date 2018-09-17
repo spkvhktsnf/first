@@ -1,5 +1,5 @@
 {  "name"                       : "first"
-,  "version"                    : "0.0.6"
+,  "version"                    : "0.0.7"
 ,  "description"                : "web and rest server 2018"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
@@ -27,5 +27,6 @@
                                   , "backup_time"   : 60000
                                   , "build"         : "./"
                                   , "data"          : "./"
+                                  , "login"         : "es 0.0.7 11.771" 
                                   }
 }
