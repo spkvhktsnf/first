@@ -1,5 +1,5 @@
 {  "name"                       : "first"
-,  "version"                    : "0.0.12"
+,  "version"                    : "0.0.13"
 ,  "description"                : "web and rest eventsource server 2018"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
@@ -29,6 +29,6 @@
                                   , "build"         : "./"
                                   , "app"           : "./"
                                   , "data"          : "./"
-                                  , "login"         : "es 0.0.12 12.559 docker build" 
+                                  , "login"         : "es 0.0.13 12.x docker build aly alx " 
                                   }
 }
