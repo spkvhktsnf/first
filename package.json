@@ -1,5 +1,5 @@
 {  "name"                       : "first"
-,  "version"                    : "0.0.27"
+,  "version"                    : "0.0.28"
 ,  "description"                : "web and rest eventsource server 2019"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
@@ -29,6 +29,6 @@
                                   , "build"         : "./"
                                   , "app"           : "./"
                                   , "data"          : "./"
-                                  , "login"         : "MIT 0.0.26 13420 buzz webrtc put es null" 
+                                  , "login"         : "MIT 0.0.28 13420 buzz webrtc put es null c CL" 
                                   }
 }
